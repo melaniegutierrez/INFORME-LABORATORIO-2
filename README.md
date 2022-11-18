@@ -60,11 +60,11 @@ Teóricos en relación de los experimentales.
 
 Con respecto a los datos experimentales y teoricos tenemos margenes de error relativamente altos, esto debido a que no trabajamos con valores ideales en un circuito físico, asi que debido a que no se usan fuentes de voltajes extacto, ademas existe perdida de energia debido a factores externos. 
 
-## 5. VIDEO
+### 5. VIDEO
 
-## 6. CONCLUSIONES
+### 6. CONCLUSIONES
 
-## 7. BIBLIOGRAFIA 
+### 7. BIBLIOGRAFIA 
 
 
 
