@@ -14,6 +14,8 @@ Identificar el uso correcto de los componentes físicos de un circuito con el fi
 
 ### 2. MARCO TEORICO
 
+![](https://github.com/melaniegutierrez/INFORME-LABORATORIO-2/blob/main/An%C3%A1lisis%20de%20mallas.jpeg)
+
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Malla 1 (R1 – R2)
