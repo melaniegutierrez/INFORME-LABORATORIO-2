@@ -64,11 +64,26 @@ Con respecto a los datos experimentales y teoricos tenemos margenes de error rel
 
 ### 5. VIDEO
 
+Link: https://youtu.be/hNtZnViwcsM
+
 ### 6. CONCLUSIONES
+
+Con los conocimientos previos de las leyes de kirchoff, se pudo realizar el análisis de las corrientes de mallas en los diferentes nodos, además realizando los cálculos analíticos, y armando el circuito en físico, que en este caso, hay que tener en cuenta que los valores medidos experimentalmente, no son exactamente los mismos a los simulados, debido a que al tener fuentes de voltaje no ideales, el voltaje al aumentar o disminuir, proporcionalmente lo hará la corriente, cumpliendo la ley de ohm.
+
+Las importancia de saber diferenciar las mallas de un circuito eléctrico, radica en que a través de ese análisis es posible identificar las diferentes corrientes que circulan por cada malla del circuito ya que la malla es un circuito cerrado por lo cual su valor será constante en cada una de las mallas.
+
+Dentro del area de electronica las bases teoricas son muy importantes, es decir para tener una mejor comprension de como funciona una malla, debido a que conlleva un estudio analitico desde leyes de ohm hasta leyes de Kirchhoff.  
 
 ### 7. BIBLIOGRAFIA 
 
+Khan Academy. (2022). Khanacademy.org. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 
+‌
+Guía de estudio 7: Mallas y Nodos. (n.d.). http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a07-Mallas-y-Nodos.pdf
+
+
+
+‌
 
 
 
