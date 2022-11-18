@@ -18,15 +18,15 @@ Identificar el uso correcto de los componentes físicos de un circuito con el fi
 
 Malla 1 (R1 – R2)
 
-![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/m1.png)
+![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/m11.png)
 
 Malla 2 (R2 – R3 – R4)
 
-![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/m2.png)
+![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/m21.png)
 
 Malla 3 (R4 – R5)
 
-![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/m3.png)
+![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/m31.png)
 
 **Procedimientos**
 
