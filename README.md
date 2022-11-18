@@ -6,11 +6,11 @@ Comprobar experimentalmente el Análisis de Mallas, mediante la replicación fí
 
 ### Objetivos específicos
 
-Identificar las diferentes trayectorias de mallas, mediante la simulación previa del circuito en la aplicación tinkercad para poder medir corrientes en dichas trayectorias de manera correcta.
+- Identificar las diferentes trayectorias de mallas, mediante la simulación previa del circuito en la aplicación tinkercad para poder medir corrientes en dichas trayectorias de manera correcta.
 
-Compilar datos de medida de diferentes circuitos fisicos, mediante la manipulación de tres circuitos fisicos diferentes y un multimetro para demostrar los margenes de error existente tanto en cicruitos simulador, fisicos y los valores teoricos. 
+- Compilar datos de medida de diferentes circuitos fisicos, mediante la manipulación de tres circuitos fisicos diferentes y un multimetro para demostrar los margenes de error existente tanto en cicruitos simulador, fisicos y los valores teoricos. 
 
-Identificar el uso correcto de los componentes físicos de un circuito con el fin de armar circuitos mixtos ordenados para poder identificar mallas fuera de representaciones esquematicas, sino de circuitos palpables.
+- Identificar el uso correcto de los componentes físicos de un circuito con el fin de armar circuitos mixtos ordenados para poder identificar mallas fuera de representaciones esquematicas, sino de circuitos palpables.
 
 ### 2. MARCO TEORICO
 
@@ -68,11 +68,11 @@ Link: https://youtu.be/hNtZnViwcsM
 
 ### 6. CONCLUSIONES
 
-Con los conocimientos previos de las leyes de kirchoff, se pudo realizar el análisis de las corrientes de mallas en los diferentes nodos, además realizando los cálculos analíticos, y armando el circuito en físico, que en este caso, hay que tener en cuenta que los valores medidos experimentalmente, no son exactamente los mismos a los simulados, debido a que al tener fuentes de voltaje no ideales, el voltaje al aumentar o disminuir, proporcionalmente lo hará la corriente, cumpliendo la ley de ohm.
+- Con los conocimientos previos de las leyes de kirchoff, se pudo realizar el análisis de las corrientes de mallas en los diferentes nodos, además realizando los cálculos analíticos, y armando el circuito en físico, que en este caso, hay que tener en cuenta que los valores medidos experimentalmente, no son exactamente los mismos a los simulados, debido a que al tener fuentes de voltaje no ideales, el voltaje al aumentar o disminuir, proporcionalmente lo hará la corriente, cumpliendo la ley de ohm.
 
-Las importancia de saber diferenciar las mallas de un circuito eléctrico, radica en que a través de ese análisis es posible identificar las diferentes corrientes que circulan por cada malla del circuito ya que la malla es un circuito cerrado por lo cual su valor será constante en cada una de las mallas.
+- Las importancia de saber diferenciar las mallas de un circuito eléctrico, radica en que a través de ese análisis es posible identificar las diferentes corrientes que circulan por cada malla del circuito ya que la malla es un circuito cerrado por lo cual su valor será constante en cada una de las mallas.
 
-Dentro del area de electronica las bases teoricas son muy importantes, es decir para tener una mejor comprension de como funciona una malla, debido a que conlleva un estudio analitico desde leyes de ohm hasta leyes de Kirchhoff.  
+ - Dentro del area de electronica las bases teoricas son muy importantes, es decir para tener una mejor comprension de como funciona una malla, debido a que conlleva un estudio analitico desde leyes de ohm hasta leyes de Kirchhoff.  
 
 ### 7. BIBLIOGRAFIA 
 
