@@ -18,10 +18,23 @@ Identificar el uso correcto de los componentes físicos de un circuito con el fi
 
 Malla 1 (R1 – R2)
 
-![]()
+![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/m1.png)
 
 Malla 2 (R2 – R3 – R4)
+
+![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/m2.png)
+
 Malla 3 (R4 – R5)
+
+![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/m3.png)
+
+**Procedimientos**
+
+![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/c1.png)
+
+**Calculos Teóricos**
+
+![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/p1.png)
 
 ### 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -37,15 +50,15 @@ Cálculo de errores
 
 Teóricos en relación de los simulados.
 
-![]()
+![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/e1.png)
 
 Los porcentajes de error con relación a los simulador son cero debido a que estamos tratando con valores ideales, es decir sin caidas de energia y con medidas exactamente iguales.
 
 Teóricos en relación de los experimentales.
 
-![]()
+![](https://github.com/melaniegutierrez/CAP-LAB-2/blob/main/e2.png)
 
-Con respecto a los datos experimentales y teoricos tenemos margenes de error relativamente altos, esto debido a que no trabajamos con valores ideales en un circuito fisico, asi que debido a que no se usan fuentes de voltajes extacto, ademas existe perdida de energia debido a factores externos. 
+Con respecto a los datos experimentales y teoricos tenemos margenes de error relativamente altos, esto debido a que no trabajamos con valores ideales en un circuito físico, asi que debido a que no se usan fuentes de voltajes extacto, ademas existe perdida de energia debido a factores externos. 
 
 ## 5. VIDEO
 
